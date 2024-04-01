@@ -5,7 +5,7 @@
 </div>
 
 
-## Hello, I'm Luis 👋
+# Hello, I'm Luis 👋
 
 
 <div style="font-size:15px">
@@ -34,9 +34,7 @@ Skills :
 
 <br>
 
-<div style="font-size:11px; color:yellow">
-*I'm' updating this space with more information*
-</div>
+> I'm' updating this space with more information
 
 
 </div>
