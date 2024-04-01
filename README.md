@@ -4,9 +4,9 @@
     <img src="./2032.gif" width=400px>
 </div>
 
-<div style="font-size:25px; color:green;">
-Hello, I'm Luis 👋
-</div>
+
+## Hello, I'm Luis 👋
+
 
 <div style="font-size:15px">
 I'm a developer from Peru
